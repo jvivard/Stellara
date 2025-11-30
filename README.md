@@ -7,6 +7,10 @@ Stellara is a decentralized AI content platform built on Cardano. It allows user
 *   **Node.js** (v18+)
 *   **Python** (v3.10+)
 *   **Nami or Lace Wallet** (Browser Extension) configured for **Preprod Testnet**.
+*   after setting up both extensions go to lace and switch to nami mode
+*   lace->network->preprod
+*   get test funds from https://docs.cardano.org/cardano-testnets/tools/faucet
+*   if rate limit error shows up- use an VPN or Proxy 
 *   **Blockfrost API Key** (Preprod).
 
 ## 🚀 Quick Start
