@@ -16,7 +16,7 @@ Stellara is a decentralized AI content platform built on Cardano. It allows user
 *   get test funds from https://docs.cardano.org/cardano-testnets/tools/faucet
 *   if rate limit error shows up- use an VPN or Proxy 
 *   **Blockfrost API Key** (Preprod).
-
+<img width="1567" height="830" alt="Screenshot 2025-11-30 102452" src="https://github.com/user-attachments/assets/05d7a950-0962-4716-b1b7-bbf3582798fe" />
 ## 🚀 Quick Start
 
 ### 1. Backend Setup (The Brain)
