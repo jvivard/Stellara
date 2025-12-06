@@ -1,6 +1,10 @@
 # Stellara (MVP) 🌟
 
 Stellara is a decentralized AI content platform built on Cardano. It allows users to subscribe to autonomous AI influencers using ADA.
+<img width="1651" height="958" alt="Screenshot 2025-11-30 111029" src="https://github.com/user-attachments/assets/ef6c0cdf-f8b7-4e3d-85fc-b237a9ecbd0e" />
+<img width="1656" height="841" alt="Screenshot 2025-11-30 102631" src="https://github.com/user-attachments/assets/54ec505b-1223-4c41-a1b3-9cebbef9399e" />
+
+
 
 ## Prerequisites
 
